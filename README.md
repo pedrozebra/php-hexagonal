@@ -1,4 +1,4 @@
-# PHP Hexagonal
+# PHP Hexagonal [WIP]
 
 This is my first approach to Hexagonal Architecture in frameworkless PHP.
 
