@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpHexagonal\Services\email;
+namespace PhpHexagonal\Services\Email;
 
 use PhpHexagonal\Domain\Entity\Greeting;
 use PhpHexagonal\Domain\Port\MessageServicePort;

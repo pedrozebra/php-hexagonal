@@ -5,8 +5,8 @@ declare(strict_types=1);
 use PhpHexagonal\Domain\Port\EmployeeRepositoryPort;
 use PhpHexagonal\Domain\Port\MessageServicePort;
 use PhpHexagonal\Infrastructure\FileDatabaseRepository;
-use PhpHexagonal\Services\birthday\BirthdayService;
-use PhpHexagonal\Services\email\EmailService;
+use PhpHexagonal\Services\Birthday\BirthdayService;
+use PhpHexagonal\Services\Email\EmailService;
 use Psr\Container\ContainerInterface;
 
 return [

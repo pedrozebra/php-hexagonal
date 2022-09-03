@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpHexagonal\Services\birthday;
+namespace PhpHexagonal\Services\Birthday;
 
 use DateTime;
 use PhpHexagonal\Domain\Entity\Greeting;
